@@ -1,9 +1,9 @@
 {
     "posts": [
-        {"id":1, "title": "json-server", "author": "typicode"}
+        {"id":1, "title": "json-server", "author": "Zaheen"}
     ],
     "comments": [
-        {"id":2, "title": "some comment", "author": "typi"}
+        {"id":2, "title": "some comment", "author": "Shifa"}
     ]
     
 }
